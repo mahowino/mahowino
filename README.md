@@ -3,7 +3,9 @@
 </div>  
   
 
-### <div align="center">Full stack Developer Self-Taught, experienced Full Stack Developer with strong knowledge in developing web apps. Effective at problem-solving and project management, with a focus on delivering quality results.</div>  
+### <div align="center">Innovative software engineer who leverages critical thinking to develop end-to-end software solutions and strives in translating requirement to scalable and testable software with robust security and best practices
+
+I work with numerous clients to bring their projects into reality and offer clear and effective communication.</div>  
   
 
 - 🌱 I’m currently learning Hyperledger and Kubernetes  
