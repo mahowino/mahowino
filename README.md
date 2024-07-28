@@ -3,16 +3,12 @@
 </div>  
   
 
-### <div align="center">Innovative software engineer who leverages critical thinking to develop end-to-end software solutions and strives in translating requirement to scalable and testable software with robust security and best practices
+### <div align="center">I have over 5 years software experience, developing microservices, ensuring application security, and mentoring entry-level engineers. Delivered efficient software solutions for various organizations.
 
 I work with numerous clients to bring their projects into reality and offer clear and effective communication.</div>  
   
 
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
-  
 
-- ❓ Ask me about anything related to Full stack development  
-  
 
 - ⚡ Fun fact: I use tabs over spaces  
   
